@@ -1,8 +1,12 @@
 body,html{
 margin: 0;
 padding: 0;
+background-color:#;611122f;
 }
-
+#header-nav{
+border-radious:0;
+background-color:#f6b319;
+}
 
 h2{
 text-align: center;
